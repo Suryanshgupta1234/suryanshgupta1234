@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Suryansh Gupta 👋
 
-<!--
-**Suryanshgupta1234/suryanshgupta1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+Computer Science student passionate about solving real-world problems through code.
+Strong foundation in Data Structures, DBMS, OOPS, and Operating Systems.
+Focused on writing clean, efficient, and scalable code.
 
-Here are some ideas to get you started:
+Skills
+Programming Languages: Java, C
+Web Technologies: HTML, CSS, JavaScript
+Backend & DB: SQL, MySQL
+Core CS: DSA, DBMS, OOPS, OS
+Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+Smart Billing System
+A console-based application for small retail stores using Java and SQL.
+
+DSA Practice Repository
+Structured solutions of common DSA problems with optimized approaches.
+
+MERN Stack Mini Projects
+CRUD-based applications focusing on backend logic and database design.
+
+What I'm Currently Doing
+Improving problem-solving skills
+Building industry-style projects
+Preparing for internships and placements
+
+Contact
+Email: suryanshgupta233@gmail.com
+LinkedIn: add-your-link-here
