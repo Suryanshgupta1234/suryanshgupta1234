@@ -6,7 +6,7 @@ Strong foundation in Data Structures, DBMS, OOPS, and Operating Systems.
 Focused on writing clean, efficient, and scalable code.
 
 Skills
-Programming Languages: Java, C
+Programming Languages: Java
 Web Technologies: HTML, CSS, JavaScript
 Backend & DB: SQL, MySQL
 Core CS: DSA, DBMS, OOPS, OS
@@ -29,4 +29,4 @@ Preparing for internships and placements
 
 Contact
 Email: suryanshgupta233@gmail.com
-LinkedIn: add-your-link-here
+LinkedIn: https://www.linkedin.com/in/suryansh-gupta-17b2422b0?utm_source=share_via&utm_content=profile&utm_medium=member_android
