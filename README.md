@@ -29,4 +29,4 @@ Preparing for internships and placements
 
 Contact
 Email: suryanshgupta233@gmail.com
-LinkedIn: https://www.linkedin.com/in/suryansh-gupta-17b2422b0?
+LinkedIn: https://www.linkedin.com/in/suryansh-gupta-17b2422b0
